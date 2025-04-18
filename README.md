@@ -6,6 +6,4 @@
 ✅ Verified OS using `cat /etc/os-release` command.  
 ✅ Gained hands-on experience with Linux distributions on AWS.
 
-# Screenshot
 
-(Add your PuTTY screenshots here later if needed.)
